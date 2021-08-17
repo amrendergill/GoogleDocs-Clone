@@ -7,6 +7,3 @@ Features:-
 5. Used Rich-Text Editor for providing basic document functionalities.
 6. Automatically saves the document to firestore on state change of document.
 7. Clicking on the garbage icon will delete the document.
-Installation:-
-1. npm install.
-2. npm run dev.
